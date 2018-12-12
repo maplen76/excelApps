@@ -1,0 +1,1 @@
+-ExecutionPolicy Bypass F:\Mobile_Rabbids\BI_Solution\powershell\rcr_weekly_refresh.ps1
